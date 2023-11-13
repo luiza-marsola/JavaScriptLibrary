@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #F2B6C1; 
+    margin: 20px;
+}
+
+h1 {
+    color: #DA5362; 
+    font-size: 100px;
+}
+
+p {
+    color: #DA5362; 
+    line-height: 1.6;
+    text-indent: 20px;
+}
+
+img {
+    width: 600px; 
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+[data-fancybox="gallery"] {
+    text-align: center;
+}
